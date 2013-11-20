@@ -218,3 +218,5 @@ pip-log.txt
 *.lrc
 
 *.xcuserstate
+
+MusicPlayer/MusicPlayer.xcodeproj/project.xcworkspace/xcshareddata/MusicPlayer.xccheckout
